@@ -1,7 +1,7 @@
 # Stealth Pic Custom Background Guide
 Unfortunately, as of January 2025, there no native solution to set an image as a complication. To use custom images, you will need a complication source to supply your desired image. I recommend [Photo Complication for Wear OS](https://play.google.com/store/apps/details?id=com.weartools.photocomplication) from [amoledwatchfaces](https://amoledwatchfaces.com/) as you can select multiple images to be shown in a slideshow.
 
-## Photo Complication for Wear OS
+## Photo Complication
 Once you have Photo Complication for Wear OS (or a similar app that adds photo complications), you can perform the following steps to set your new background.
 1. Hold down on the watch face
 
@@ -24,6 +24,12 @@ Once you have Photo Complication for Wear OS (or a similar app that adds photo c
 </p>
 
 Alternatively, in the Samsung 'Wearable' app, it looks something like this if you have Photo Complication for Wear OS installed. 
-![Preview of Samsung Watch Face Customizer with 'Select Image' from 'Photo Image Complication' selected](Stealth_Pic_Select_Image_Example.jpg)
+
+<p>
+    <img src="Stealth_Pic_Select_Image_Example.jpg" height="400px" alt="Preview of Samsung Watch Face Customizer with 'Select Image' from 'Photo Image Complication' selected">
+</p>
 
 🎉 Yay! You should now have your custom background!
+
+## Perfecting the Fit
+You might notice that your images don't look quite right when you port them over to the photo complication app. To change this, try cropping your image to a square aspect ratio manually before sending it to your watch
