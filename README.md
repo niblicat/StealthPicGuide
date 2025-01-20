@@ -32,4 +32,4 @@ Alternatively, in the Samsung 'Wearable' app, it looks something like this if yo
 🎉 Yay! You should now have your custom background!
 
 ## Perfecting the Fit
-You might notice that your images don't look quite right when you port them over to the photo complication app. To change this, try cropping your image to a square aspect ratio manually before sending it to your watch
+You might notice that your images don't look quite right when you port them over to the photo complication app. To change this, try cropping your image to a square aspect ratio manually before sending it to your watch.
